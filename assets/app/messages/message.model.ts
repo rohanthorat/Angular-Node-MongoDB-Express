@@ -1,7 +1,7 @@
 export class Message {
     content: string;
     username: string;
-    messageId?; string;     //messageId is optional
+    messageId?; string;     //? indicates optional value
     userId?: string;
 
     constructor(content: string, username: string, messageId?: string, userId?: string) {
