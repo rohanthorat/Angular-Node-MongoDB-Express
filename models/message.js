@@ -1,9 +1,7 @@
 /**
  * Created by Rohan on 8/20/17.
  */
-/**
- * Created by Rohan on 8/20/17.
- */
+
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
